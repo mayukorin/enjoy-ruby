@@ -9,3 +9,4 @@ class AccessTest
         puts "priv is a private method"
     end
 end
+
